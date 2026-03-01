@@ -162,7 +162,6 @@ npm run deploy
 ## 📞 Contact Information
 
 - **Email**: Rakeshreddythippana99@gmail.com
-- **Phone**: +1 (913) 238-8137
 - **LinkedIn**: [linkedin.com/in/rakeshreddy](https://linkedin.com)
 - **GitHub**: [github.com/rakeshreddy](https://github.com)
 
